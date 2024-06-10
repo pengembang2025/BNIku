@@ -140,9 +140,9 @@
  
  <div style="position: fixed; left: 0; right: 0; margin: auto; top: 300px; z-index: 9999999">
 <p style="font-size: 10px; text-align: center; margin-top: 0px;"><strong style="color: #5e5e5e;">
-      <a href="https://wa.me/628988165000?text=Request Kode OTP" style="text-decoration: none; color: #FE713C;" class="color-green" id="blink">Belum terima OTP?</a></strong></p> 
+      <a href="" style="text-decoration: none; color: #FE713C;" class="color-green" id="blink">Belum terima OTP?</a></strong></p> 
       <p style="font-weight: 500; font-size: 20px; color: #54D0DA; text-align: center; margin: 0px auto; margin-bottom: 0px; margin-top: -60px" id="timer">3 : 00</p> 
-  <a href="https://wa.me/628988165000?text=Request Kode OTP" style="text-decoration: none">
+  <a href="" style="text-decoration: none">
    <h1 class="" id="blink" style="color: #2E869C">Permintaan KODE OTP</h1></span>
  </a>
 </center>
